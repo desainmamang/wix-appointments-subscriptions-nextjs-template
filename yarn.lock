@@ -1102,36 +1102,36 @@ __metadata:
   linkType: hard
 
 "@wix/pricing-plans@npm:^1.0.17":
-  version: 1.0.87
-  resolution: "@wix/pricing-plans@npm:1.0.87"
+  version: 1.0.91
+  resolution: "@wix/pricing-plans@npm:1.0.91"
   dependencies:
-    "@wix/pricing-plans_orders": 1.0.36
-    "@wix/pricing-plans_plans": 1.0.38
-  checksum: bf4bbbebdf2b96642182bb028dae7486e27d7c2cbf65cda1a65285fdad68300c1310a51d447f1e91234dabb478e28beb66196836406d87b6bd7132e72ff87bdf
+    "@wix/pricing-plans_orders": 1.0.38
+    "@wix/pricing-plans_plans": 1.0.41
+  checksum: 10c7f1deef0e77848e06031e4c93d406f1489bc0a3accdcd9f7dfb19e3b42eba61034caa1b129522688a01cb2a2362c056bbc11abd3822be2d3db001400bdb51
   languageName: node
   linkType: hard
 
-"@wix/pricing-plans_orders@npm:1.0.36":
-  version: 1.0.36
-  resolution: "@wix/pricing-plans_orders@npm:1.0.36"
-  dependencies:
-    "@wix/metro-runtime": ^1.1792.0
-    "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
-    "@wix/sdk-runtime": ^0.3.14
-    "@wix/sdk-types": ^1.9.2
-  checksum: c99219d7eff4b59a2834a51cefc8a2875ec68b8def0f517a9ff52376a79b4ee121f468d7f6d9b034859950fe3e01fe0b2d6b7fd8381ac3952486a9d866734ddf
-  languageName: node
-  linkType: hard
-
-"@wix/pricing-plans_plans@npm:1.0.38":
+"@wix/pricing-plans_orders@npm:1.0.38":
   version: 1.0.38
-  resolution: "@wix/pricing-plans_plans@npm:1.0.38"
+  resolution: "@wix/pricing-plans_orders@npm:1.0.38"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.9.2
-  checksum: 48fe29bfd5488fb14f712850b278347c5e8263340975c18ab0127e3bfc13ea3ec92315652e9013eba7e6aa42d29cc8fd62a450e3321d28c0f2a7b9d409b4428c
+  checksum: 6ac248b7afd820a16052bdcc6a718864e1cdd587d17de569046f06463b997488237cbd25847237654ceda2adeb93f5a2e7f48bfb8beefcfb9003d94bf007defd
+  languageName: node
+  linkType: hard
+
+"@wix/pricing-plans_plans@npm:1.0.41":
+  version: 1.0.41
+  resolution: "@wix/pricing-plans_plans@npm:1.0.41"
+  dependencies:
+    "@wix/metro-runtime": ^1.1792.0
+    "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
+    "@wix/sdk-runtime": ^0.3.14
+    "@wix/sdk-types": ^1.9.2
+  checksum: cd01b96732cf7913fb4fbd76dead5f0a98f7978f18595bf1bd2cab8a73a0b8261e55f82af16bf741f6fed849de1bacf7aeab907d43affbd2ef095c4828a99aad
   languageName: node
   linkType: hard
 
