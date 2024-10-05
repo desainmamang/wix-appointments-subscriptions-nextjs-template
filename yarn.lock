@@ -837,19 +837,19 @@ __metadata:
   linkType: hard
 
 "@wix/members@npm:^1.0.38":
-  version: 1.0.102
-  resolution: "@wix/members@npm:1.0.102"
+  version: 1.0.104
+  resolution: "@wix/members@npm:1.0.104"
   dependencies:
     "@wix/members_authentication": 1.0.26
     "@wix/members_authorization": 1.0.4
     "@wix/members_badges": 1.0.32
-    "@wix/members_custom-field": 1.0.4
+    "@wix/members_custom-field": 1.0.5
     "@wix/members_custom-field-suggestion": 1.0.4
-    "@wix/members_member-role-definition": 1.0.5
+    "@wix/members_member-role-definition": 1.0.7
     "@wix/members_member-to-member-block": 1.0.4
-    "@wix/members_members": 1.0.39
-    "@wix/members_user-member": 1.0.8
-  checksum: c845de5b45fd6c1f4560c0dbfffc1eb0c33985155411fe39d832d4b85d5d44c9b97bf6541b809062fc98e9e1ee2042203c9bdd00f6dcebf2e8593dd58bdfe9f8
+    "@wix/members_members": 1.0.41
+    "@wix/members_user-member": 1.0.10
+  checksum: 8d4f5f057429c80ffda7f261ae3a15e33f51140419e57adccdfe4341bbf83d3b3cfa54a342e291f27ceaa1962a54d76a05f7606b499a84f238fbc7f5521e59f3
   languageName: node
   linkType: hard
 
@@ -901,27 +901,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/members_custom-field@npm:1.0.4":
-  version: 1.0.4
-  resolution: "@wix/members_custom-field@npm:1.0.4"
+"@wix/members_custom-field@npm:1.0.5":
+  version: 1.0.5
+  resolution: "@wix/members_custom-field@npm:1.0.5"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.9.2
-  checksum: aa53b7154828a338f8e7bac900a62f4de7e5e6be29574f7d9c82a38bc7f8482d98bfcf7393fd3ad4bc679f42f711809ed6bcab645e6f4a05bef1e7a5ec32f160
+  checksum: 8d18719d551bc518f43bb49edc5faee32686dee819442ea3c815286f8492eec139190a22839f8c116f03bb4561f1da932ba82950274796bb3ded556294a0cfe6
   languageName: node
   linkType: hard
 
-"@wix/members_member-role-definition@npm:1.0.5":
-  version: 1.0.5
-  resolution: "@wix/members_member-role-definition@npm:1.0.5"
+"@wix/members_member-role-definition@npm:1.0.7":
+  version: 1.0.7
+  resolution: "@wix/members_member-role-definition@npm:1.0.7"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.9.2
-  checksum: 05173ac201e07bbb47fce6eaa5a81da7443668d84f4facf4da923532f838f8dae10ab21a07ea141687030082a35470da7a43ddcbfa72103b24c18fe4e4f0ccd6
+  checksum: 39973f440c9f77f2502d46cec87b08206edfaeb4fdf327245ade4c38e1be8e4426b42479d92b11fa5e1f34f606a9915feeb52a505a1358b0bf9db48253aacd14
   languageName: node
   linkType: hard
 
@@ -937,27 +937,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/members_members@npm:1.0.39":
-  version: 1.0.39
-  resolution: "@wix/members_members@npm:1.0.39"
+"@wix/members_members@npm:1.0.41":
+  version: 1.0.41
+  resolution: "@wix/members_members@npm:1.0.41"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.9.2
-  checksum: 1d4de6c741b544b9c6af3dda8ce016736463d2b0ad20b4e7e3bf9624bfc93f322811d96e1dc4e0a6ea069da2ed968ed931ba28cd009a40e827ba00b079007392
+  checksum: 2838864680ee5a75ca1a51ae131ca964e3649a1cce0f133304a346168f30b5a10d1e1beb27e1dd72f73a3b51eb586173b5427028df2cbb4dca984cf63ff98313
   languageName: node
   linkType: hard
 
-"@wix/members_user-member@npm:1.0.8":
-  version: 1.0.8
-  resolution: "@wix/members_user-member@npm:1.0.8"
+"@wix/members_user-member@npm:1.0.10":
+  version: 1.0.10
+  resolution: "@wix/members_user-member@npm:1.0.10"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.9.2
-  checksum: ecfff2c7c0fb325cb049a0276b631a4ee53e694e167ff2e04d7a428e8e20580522c9572819e6135b58bcea49cdae6003b224bfd4f852aa3a4ab881533a8879b5
+  checksum: 5cc44266df79c84a410c21e01ccda9f66c502b7bb7d37671d3c38d557458ca71c1c4ca84b31154f7d1e81bbd0108c28e584c383877f9c70506a3a76c8b765e3f
   languageName: node
   linkType: hard
 
